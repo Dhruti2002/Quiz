@@ -50,7 +50,7 @@ body {
 
 .main {
     min-height: 100vh;
-    background: url('img/7fe774bbacce09f00cb5b2e3cbc48db3.png') no-repeat;
+    background: url('7fe774bbacce09f00cb5b2e3cbc48db3.png') no-repeat;
     background-size: cover;
     background-position: center;
     pointer-events: auto;
